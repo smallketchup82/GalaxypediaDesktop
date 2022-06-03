@@ -1,3 +1,4 @@
+// Build for MacOS
 console.log("Building Galaxypedia Desktop App for MacOS...")
 var nativefier = require('nativefier').default;
 

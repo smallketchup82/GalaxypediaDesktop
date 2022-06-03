@@ -1,3 +1,4 @@
+// Build for Windows
 console.log("Building Galaxypedia Desktop App for Windows...")
 var nativefier = require('nativefier').default;
 

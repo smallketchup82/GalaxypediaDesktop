@@ -1,4 +1,5 @@
-console.log("Linux support has been discontinued since version 0.1, if you are building it yourself be weary of errors.\nTo cancel, terminate the script within the next 5 seconds")
+// Build for Linux. Unstable
+console.log("Linux is not supported. If you are building it yourself be weary of errors. Use at your own risk.\nTo cancel, terminate the script within the next 5 seconds")
 setTimeout(() => {
   console.log("Building Galaxypedia Desktop App for Linux...")
   var nativefier = require('nativefier').default;
