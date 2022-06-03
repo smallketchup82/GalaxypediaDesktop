@@ -1,6 +1,6 @@
 {
   "name": "galaxypediadesktop",
-  "version": "0.1.0",
+  "version": "0.2.0",
   "description": "Experimental Galaxypedia Desktop App Builds using Nativefie",
   "main": "index.js",
   "scripts": {

@@ -6,7 +6,7 @@ var options = {
   name: 'Galaxypedia',
   targetUrl: 'https://robloxgalaxy.wiki',
   platform: 'darwin',
-  out: '.',
+  out: './Galaxypedia-macOS-x64',
   fastQuit: true,
 };
 
