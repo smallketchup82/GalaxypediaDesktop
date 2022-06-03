@@ -29,3 +29,6 @@ inquirer.prompt([
         process.exit()
     }
 })
+.catch(err => {
+    console.error(err)
+})
