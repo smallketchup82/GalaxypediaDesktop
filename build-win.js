@@ -1,13 +1,12 @@
+console.log("Building Galaxypedia Desktop App for Windows...")
 var nativefier = require('nativefier').default;
 
-// possible options, defaults unless specified otherwise
 var options = {
-  name: 'Galaxypedia', // will be inferred if not specified
-  targetUrl: 'https://robloxgalaxy.wiki', // required
-  platform: 'windows', // defaults to the current system
-  arch: 'x64', // defaults to the current system
+  name: 'Galaxypedia',
+  targetUrl: 'https://robloxgalaxy.wiki',
+  platform: 'windows',
+  arch: 'x64',
   out: '.',
-  overwrite: false,
 };
 
 nativefier(options, function (error, appPath) {

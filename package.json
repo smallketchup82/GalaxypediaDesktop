@@ -17,6 +17,11 @@
   },
   "homepage": "https://github.com/smallketchup82/GalaxypediaDesktop#readme",
   "dependencies": {
+    "chalk": "^4.1.2",
+    "inquirer": "^8.2.4",
     "nativefier": "^47.2.0"
+  },
+  "devDependencies": {
+    "eslint": "^8.16.0"
   }
 }
