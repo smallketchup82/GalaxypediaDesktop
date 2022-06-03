@@ -1,0 +1,22 @@
+{
+  "name": "galaxypediadesktop",
+  "version": "0.1.0",
+  "description": "Experimental Galaxypedia Desktop App Builds using Nativefie",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/smallketchup82/GalaxypediaDesktop.git"
+  },
+  "author": "smallketchup82",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/smallketchup82/GalaxypediaDesktop/issues"
+  },
+  "homepage": "https://github.com/smallketchup82/GalaxypediaDesktop#readme",
+  "dependencies": {
+    "nativefier": "^47.2.0"
+  }
+}
