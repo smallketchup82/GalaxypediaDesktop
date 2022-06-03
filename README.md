@@ -28,7 +28,7 @@ Pull requests are welcome! Feel free to help with creating a desktop application
 ### Manually Building
 1. Clone the repository
 2. Install dependencies `npm install`
-3. Each .js script in the repository builds the app for a specific platform. To run them use `node <file>`. To run builds for all platforms, run `node .`
+3. Run `node .` for an interactive terminal which you can use to select the platforms to build.
 
 ### Developing
 Make sure that you're familiar with the [Nativefier API docs](https://github.com/nativefier/nativefier/blob/master/API.md). Once you've got a good understanding of the Nativefier API, you can help develop by making pull requests where you see fit.
