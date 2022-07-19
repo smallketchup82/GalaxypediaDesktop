@@ -9,6 +9,7 @@ var options = {
 	fastQuit: true,
 	internalUrls: 'http.:\/\/robloxgalaxy\.wiki',
 	strictInternalUrls: true,
+	showMenuBar: true
 };
 
 nativefier(options, function (error, appPath) {
