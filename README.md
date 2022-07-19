@@ -1,10 +1,12 @@
 # GalaxypediaDesktop
-Experimental Desktop Apps for the [Galaxypedia](https://robloxgalaxy.wiki) built upon [nativefier](https://github.com/nativefier/nativefier). Having a desktop app for the Galaxypedia makes it easier to switch from the Galaxy game to the Galaxypedia. It's a simple alt+tab.
+Experimental Desktop App for the [Galaxypedia](https://robloxgalaxy.wiki) built upon [nativefier](https://github.com/nativefier/nativefier). Having a desktop app for the Galaxypedia makes it easier to switch from the game to the Galaxypedia. It's a simple alt+tab.
 
 ## Installation
 Go to [Releases](https://github.com/smallketchup82/GalaxypediaDesktop/releases) and look for the latest release. Download the zip file according to your platform. Extract it and run the executeable.
 
 ## Uninstallation
+On recent versions of the application, a menu bar should be present on the application. There should be an option to clear app data. Make sure you press this. If the menu bar is not present, that's fine and it shouldn't be a big deal. However you should consider upgrading to the latest release.
+
 Remove the folder or the executeable (.app on MacOS). Also make sure you delete your cache folder to make sure your account doesn't get compromised, since your cache folder holds your user login token.
 
 On Windows, make sure you delete the cache folder from your AppData folder. It might take a bit of time to find and remove it, but the cache folder starts with "Galaxypedia"  
