@@ -14,8 +14,7 @@ var options = {
 
 nativefier(options, function (error, appPath) {
 	if (error) {
-		console.error(error);
-		return;
+		throw error.message
 	}
 	console.log('Galaxypedia has been nativefied to', appPath);
 });
