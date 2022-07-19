@@ -1,3 +1,5 @@
 node_modules/
 .DS_Store
 Galaxypedia-win32-x64/
+Galaxypedia-macOS-x64/
+Galaxypedia-linux-x64/
