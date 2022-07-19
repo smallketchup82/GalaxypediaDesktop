@@ -7,6 +7,9 @@ var options = {
     platform: 'linux',
     arch: 'x64',
     out: '.',
+    internalUrls: 'http.:\/\/robloxgalaxy\.wiki',
+    strictInternalUrls: true,
+    showMenuBar: true
   };
 
 console.log(chalk.redBright(`Linux support is unstable and may have errors. Use at your own risk\nTo cancel, terminate the script within the next 5 seconds`))
