@@ -4,7 +4,7 @@ var nativefier = require('nativefier').default;
 var options = {
 	name: 'Galaxypedia',
 	targetUrl: 'https://robloxgalaxy.wiki',
-	platform: 'darwin',
+	platform: 'osx',
 	out: './Galaxypedia-macOS-x64',
 	fastQuit: true,
 	internalUrls: 'http.:\/\/robloxgalaxy\.wiki',
