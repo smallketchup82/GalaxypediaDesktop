@@ -7,6 +7,9 @@ var options = {
 	platform: 'windows',
 	arch: 'x64',
 	out: '.',
+	internalUrls: 'http.:\/\/robloxgalaxy\.wiki',
+	strictInternalUrls: true,
+	showMenuBar: true
 };
 
 nativefier(options, function (error, appPath) {
