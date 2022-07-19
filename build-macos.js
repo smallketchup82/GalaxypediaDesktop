@@ -6,7 +6,7 @@ var options = {
 	name: "Galaxypedia",
 	targetUrl: "https://robloxgalaxy.wiki",
 	platform: "osx",
-	out: "./Galaxypedia-macOS-x64",
+	out: ".",
 	fastQuit: true,
 	internalUrls: "http.:\/\/robloxgalaxy\.wiki",
 	strictInternalUrls: true,
