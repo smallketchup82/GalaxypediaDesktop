@@ -1,5 +1,5 @@
 # GalaxypediaDesktop
-Experimental Desktop App for the [Galaxypedia](https://robloxgalaxy.wiki) built upon [nativefier](https://github.com/nativefier/nativefier). Having a desktop app for the Galaxypedia makes it easier to switch from the game to the Galaxypedia. It's a simple alt+tab.
+Desktop App for the [Galaxypedia](https://robloxgalaxy.wiki) built upon [nativefier](https://github.com/nativefier/nativefier). Having a desktop app for the Galaxypedia makes it easier to switch from the game to the Galaxypedia. It's a simple alt+tab.
 
 ## Installation
 Go to [Releases](https://github.com/smallketchup82/GalaxypediaDesktop/releases) and look for the latest release. Download the zip file according to your platform. Extract it and run the executeable.
